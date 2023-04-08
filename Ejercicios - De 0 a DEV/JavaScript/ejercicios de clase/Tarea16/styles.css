@@ -1,0 +1,30 @@
+.container{
+    margin: 5rem;
+    width: 20rem;
+}
+
+.imagen{
+    width: 15%;
+}
+
+.seccion{
+    background-color: darkgrey;
+    padding: 1rem;
+    margin: 0.5rem;
+    
+}
+
+.seccion .parrafo{
+    background-color: white;
+    width: 15rem;
+    padding: 0.5rem;
+
+}
+
+.seccion .parrafo.dragging{
+    opacity: 0.3;
+}
+
+.container #basura{
+    background-color: white;
+}

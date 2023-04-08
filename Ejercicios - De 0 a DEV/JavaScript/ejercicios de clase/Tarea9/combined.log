@@ -1,0 +1,4 @@
+{"level":"info","message":"Error1","service":"user-service"}
+{"level":"debug","message":"Error2","service":"user-service"}
+{"level":"warn","message":"Error3","service":"user-service"}
+{"level":"error","message":"Error4","service":"user-service"}
